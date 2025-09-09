@@ -102,7 +102,8 @@ Output Waveform
 
 TABULATION:
 
-![Exp 1 tabulation](https://github.com/user-attachments/assets/2c0a1062-4c46-4f23-9956-0fe13ffe798b)
+![AM Exp 1 tabulation](https://github.com/user-attachments/assets/e85f998d-d2fb-4cb3-8dd4-ca8d61a34762)
+
 
 
 
@@ -110,7 +111,8 @@ TABULATION:
 
 Calculation
 1.	ma (Theory) = am/ac =0.5
-2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.52  ![Exp 1 calculation](https://github.com/user-attachments/assets/e2e21a74-3995-4e19-b121-b721d71f10a4)
+2.	ma(Practical) = (Emax-Emin)/(Emax+Emin) = 0.52  ![AM Exp 1 calculation](https://github.com/user-attachments/assets/62422187-29a7-44f3-bfbb-5d83525d5738)
+
 
 
 
@@ -122,4 +124,5 @@ MODEL GRAPH
 
 
 RESULT:
+
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
